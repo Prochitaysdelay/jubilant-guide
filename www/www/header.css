@@ -1,0 +1,154 @@
+body {
+  background-color: rgb(195, 164, 223);
+  margin: 0;
+  padding: 0;
+  font-family: "Black Ops One", cursive;
+  height: 100%;
+}
+
+.navbar {
+  width: 100%;
+  box-shadow: 0 4px 10px rgb(88, 89, 90);
+}
+
+.header {
+  height: inherit;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.navbar-brand {
+  font-weight: 600px;
+  color: rgba(30, 44, 95, 0.852);
+  text-decoration: none;
+  padding-right: 505px;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  margin-left: 15px;
+}
+
+.navbar-menu {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.navbar-menu li {
+  display: inline-block;
+  font-size: 18px;
+}
+
+.navbar-menu li a {
+  display: inline-block;
+  color: rgb(77, 73, 73);
+  opacity: 0.6;
+  text-decoration: none;
+  padding: 12px;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar-menu li a:hover {
+  color: blueviolet;
+}
+
+.navbar-wrap {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-right: 3px;
+}
+*/ .callback {
+  margin-left: 25px;
+  padding: 12px;
+  color: rgb(160, 88, 228);
+  background-color: bisque;
+  border-radius: 100%;
+  text-decoration: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border: 0;
+  font-size: medium;
+  font-weight: bold;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.callback:active {
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+/*active эффект нажатия в совокупе со свойством transition*/
+
+.callback:hover {
+  transform: scale(1.04);
+  color: rgb(171, 161, 161);
+}
+
+.navbar-brand:hover {
+  color: #6e222275;
+  transition: all 0.2s ease-in-out;
+}
+/*transition плавный переход перед нажатием*/
+
+.Sman {
+  display: flex;
+  /*justify-content: center;*/
+}
+
+.Page {
+  width: 14%;
+  background-color: #2e2b31;
+  opacity: 0.75;
+  border-radius: 5px;
+  margin-bottom: -300%;
+}
+
+.Page > ol {
+  list-style: none;
+  border-bottom-style: inherit;
+  border-bottom-color: rgb(33, 27, 40);
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.Page > ol > li {
+  font-size: 21px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.Page > ol > li > a {
+  text-decoration: none;
+  background-color: #cdbdde;
+  border-radius: 10px;
+  padding: 5px;
+  display: flex;
+}
+
+.Orange :hover {
+  color: #ec951a;
+}
+
+.Potter :hover {
+  color: #71212f;
+}
+
+.Black :hover {
+  color: black;
+}
+
+.White :hover {
+  color: white;
+}
+
+.Pink :hover {
+  color: pink;
+}
+
+.wrapper {
+  width: 86%;
+}
+
+.main-content {
+  padding-left: 15px;
+}

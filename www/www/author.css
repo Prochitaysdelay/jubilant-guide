@@ -1,0 +1,224 @@
+.strong {
+  font-style: italic;
+  font-weight: lighter;
+  padding: 6px;
+}
+
+.bold {
+  font-style: oblique;
+  font-size: 25px;
+}
+
+.bold1 {
+  margin-left: 700px;
+}
+
+.hcitat1 {
+  background-color: #ddce95;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat2 {
+  background-color: #4c4760;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat3 {
+  background-color: #9e78b0;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat4 {
+  background-color: #b79bcf;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat5 {
+  background-color: #d4cbe6;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat6 {
+  background-color: #e6e3ed;
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat7 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat8 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat9 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat10 {
+  background-color: rgba(0, 5, 9, 0.648);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.hcitat11 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat12 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.hcitat13 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.hcitat14 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.hcitat15 {
+  background-color: rgb(202, 229, 248, 0.2);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.hcitat16 {
+  background-color: rgba(183, 78, 146, 0.884);
+  border-radius: 50px;
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
